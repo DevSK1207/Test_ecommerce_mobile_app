@@ -1,0 +1,33 @@
+src/
+|-- main/
+|   |-- java/
+|       |-- AppiumSetup.java
+|       |-- Model.java
+|       |-- Presenter.java
+|       |-- View.java
+|-- test/
+|   |-- java/
+|       |-- stepdefinitions/
+|           |-- StepDefinitions.java
+|       |-- ConsoleView.java
+|       |-- TestRunner.java
+|-- resources/
+|   |-- features/
+|       |-- Test.feature
+|-- pom.xml
+
+
+
+src/
+|-- main/
+|   |-- java/
+|       |-- AppiumSetup.java
+|       |-- Model.java
+|       |-- Presenter.java
+|       |-- View.java
+|-- test/
+|   |-- java/
+|       |-- stepdefinitions/
+|           |-- StepDefinitions.java
+|       |-- ConsoleView.java
+|       |-- TestRunner.java
